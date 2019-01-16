@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Starbucks WiFi Test App</string>
+    <string name="action_settings" >Settings</string>
+    <string name="hello_world" >Hello world!</string>
+    <string name="button1_name">AP Enable</string>
+    <string name="button2_name">WiFi Enable</string>
+    <string name="button3_name">WifiInfo</string>
+
+</resources>
